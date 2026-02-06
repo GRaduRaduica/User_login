@@ -1,3 +1,6 @@
+"""
+This is not really needed for this light application but its a good practice
+"""
 from pydantic._internal._model_construction import ModelMetaclass
 
 
